@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "get",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kean/Get",
+      "state" : {
+        "revision" : "12830cc64f31789ae6f4352d2d51d03a25fc3741",
+        "version" : "2.1.6"
+      }
+    },
+    {
+      "identity" : "screenscraperclient",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/leolobato/ScreenScraperClient.git",
+      "state" : {
+        "revision" : "35c42cd2d0d4d42c55408e56ea17d6018a4a96cf",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser",
+      "state" : {
+        "revision" : "fee6933f37fde9a5e12a1e4aeaa93fe60116ff2a",
+        "version" : "1.2.2"
+      }
+    }
+  ],
+  "version" : 2
+}
